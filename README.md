@@ -1,4 +1,4 @@
-因为vue的手机小说App
+基于vue的手机小说App
 
 ## Project setup
 ```

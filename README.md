@@ -1,4 +1,4 @@
-基于vue的手机小说App
+基于vue的手机小说App；wxback为sails后台文件，需安装node-modules
 
 ## Project setup
 ```
